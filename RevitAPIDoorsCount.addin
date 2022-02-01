@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPIDoorsCount.dll"</Assembly>
+		<AddInId>76154FA5-4573-432E-99F9-FF2FB10A9ABA</AddInId>
+		<FullClassName>RevitAPIDoorsCount.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Количество дверей</Text>
+	</AddIn>
+</RevitAddIns>
